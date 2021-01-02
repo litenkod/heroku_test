@@ -20,9 +20,9 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 ## Deploying to Heroku
 
 ```
-$ heroku create
-$ git push heroku main
-$ heroku open
+$ heroku create - create heroku application - https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app
+$ git push heroku main - push code to heroku
+$ heroku open - open site in browser
 ```
 or
 
